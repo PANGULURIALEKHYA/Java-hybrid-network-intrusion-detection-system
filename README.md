@@ -120,7 +120,7 @@ The IDS successfully detected excessive SYN packets and generated a high-severit
 
 ## Packet Capture & Wireshark Validation
 
-![Packet Capture](screenshots/packet-capture.png)
+![Packet Capture](screenshots/Captured Network Traffic.jpeg)
 
 ![Wireshark Validation](screenshots/Wireshark Validation of Captured Packets.jpeg)
 
